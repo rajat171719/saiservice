@@ -1,0 +1,564 @@
+Uri: http://fonts.googleapis.com/css?family=Open+Sans:300%2C400%2C700%2C300italic%2C400italic%2C700italic|Roboto:300%2C400%2C700&subset=latin%2Clatin-ext
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\css
+Content Type: text/css
+
+Uri: http://fonts.gstatic.com/s/opensans/v28/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWV4exQ.ttf
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\s\opensans\v28\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWV4exQ.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v28/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWV4exQ.ttf
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\s\opensans\v28\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWV4exQ.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v28/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWV4exQ.ttf
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\s\opensans\v28\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWV4exQ.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4uaVc.ttf
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4uaVc.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4uaVc.ttf
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4uaVc.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4uaVc.ttf
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4uaVc.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmSU5fChc9.ttf
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\s\roboto\v29\KFOlCnqEu92Fr1MmSU5fChc9.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmWUlfChc9.ttf
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\s\roboto\v29\KFOlCnqEu92Fr1MmWUlfChc9.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/roboto/v29/KFOmCnqEu92Fr1Mu7GxP.ttf
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\s\roboto\v29\KFOmCnqEu92Fr1Mu7GxP.ttf
+Content Type: font/ttf
+
+Uri: http://www.srisaiservice.co.in/
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\index.htm
+Content Type: text/html
+
+Uri: http://www.srisaiservice.co.in/comments/feed/
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://www.srisaiservice.co.in/contact/
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\contact\index.htm
+Content Type: text/html
+
+Uri: http://www.srisaiservice.co.in/feed/
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://www.srisaiservice.co.in/services/
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\services\index.htm
+Content Type: text/html
+
+Uri: http://www.srisaiservice.co.in/wp-content/fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVQUwaEQXjM.woff
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\fonts\open-sans\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVQUwaEQXjM.woff
+Content Type: font/woff
+
+Uri: http://www.srisaiservice.co.in/wp-content/fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4iaVQUwaEQXjN_mQ.woff
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\fonts\open-sans\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4iaVQUwaEQXjN_mQ.woff
+Content Type: font/woff
+
+Uri: http://www.srisaiservice.co.in/wp-content/fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4jaVQUwaEQXjN_mQ.woff
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\fonts\open-sans\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4jaVQUwaEQXjN_mQ.woff
+Content Type: font/woff
+
+Uri: http://www.srisaiservice.co.in/wp-content/fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4kaVQUwaEQXjN_mQ.woff
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\fonts\open-sans\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4kaVQUwaEQXjN_mQ.woff
+Content Type: font/woff
+
+Uri: http://www.srisaiservice.co.in/wp-content/fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4saVQUwaEQXjN_mQ.woff
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\fonts\open-sans\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4saVQUwaEQXjN_mQ.woff
+Content Type: font/woff
+
+Uri: http://www.srisaiservice.co.in/wp-content/fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4taVQUwaEQXjN_mQ.woff
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\fonts\open-sans\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4taVQUwaEQXjN_mQ.woff
+Content Type: font/woff
+
+Uri: http://www.srisaiservice.co.in/wp-content/fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4uaVQUwaEQXjN_mQ.woff
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\fonts\open-sans\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4uaVQUwaEQXjN_mQ.woff
+Content Type: font/woff
+
+Uri: http://www.srisaiservice.co.in/wp-content/fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4vaVQUwaEQXjN_mQ.woff
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\fonts\open-sans\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4vaVQUwaEQXjN_mQ.woff
+Content Type: font/woff
+
+Uri: http://www.srisaiservice.co.in/wp-content/fonts/roboto/KFOmCnqEu92Fr1Mu4mxMKTU1Kg.woff
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\fonts\roboto\KFOmCnqEu92Fr1Mu4mxMKTU1Kg.woff
+Content Type: font/woff
+
+Uri: http://www.srisaiservice.co.in/wp-content/fonts/roboto/KFOmCnqEu92Fr1Mu4WxMKTU1Kvnz.woff
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\fonts\roboto\KFOmCnqEu92Fr1Mu4WxMKTU1Kvnz.woff
+Content Type: font/woff
+
+Uri: http://www.srisaiservice.co.in/wp-content/fonts/roboto/KFOmCnqEu92Fr1Mu5mxMKTU1Kvnz.woff
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\fonts\roboto\KFOmCnqEu92Fr1Mu5mxMKTU1Kvnz.woff
+Content Type: font/woff
+
+Uri: http://www.srisaiservice.co.in/wp-content/fonts/roboto/KFOmCnqEu92Fr1Mu72xMKTU1Kvnz.woff
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\fonts\roboto\KFOmCnqEu92Fr1Mu72xMKTU1Kvnz.woff
+Content Type: font/woff
+
+Uri: http://www.srisaiservice.co.in/wp-content/fonts/roboto/KFOmCnqEu92Fr1Mu7GxMKTU1Kvnz.woff
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\fonts\roboto\KFOmCnqEu92Fr1Mu7GxMKTU1Kvnz.woff
+Content Type: font/woff
+
+Uri: http://www.srisaiservice.co.in/wp-content/fonts/roboto/KFOmCnqEu92Fr1Mu7mxMKTU1Kvnz.woff
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\fonts\roboto\KFOmCnqEu92Fr1Mu7mxMKTU1Kvnz.woff
+Content Type: font/woff
+
+Uri: http://www.srisaiservice.co.in/wp-content/fonts/roboto/KFOmCnqEu92Fr1Mu7WxMKTU1Kvnz.woff
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\fonts\roboto\KFOmCnqEu92Fr1Mu7WxMKTU1Kvnz.woff
+Content Type: font/woff
+
+Uri: http://www.srisaiservice.co.in/wp-content/plugins/coblocks/dist/js/coblocks-animation.js?ver=2.22.1
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\plugins\coblocks\dist\js\coblocks-animation.js
+Content Type: application/javascript
+
+Uri: http://www.srisaiservice.co.in/wp-content/plugins/coblocks/dist/js/coblocks-lightbox.js?ver=2.22.1
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\plugins\coblocks\dist\js\coblocks-lightbox.js
+Content Type: application/javascript
+
+Uri: http://www.srisaiservice.co.in/wp-content/plugins/coblocks/dist/style-coblocks-1.css?ver=2.22.1
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\plugins\coblocks\dist\style-coblocks-1.css
+Content Type: text/css
+
+Uri: http://www.srisaiservice.co.in/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=6.2.1
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\plugins\woocommerce\assets\css\woocommerce-layout.css
+Content Type: text/css
+
+Uri: http://www.srisaiservice.co.in/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=6.2.1
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\plugins\woocommerce\assets\css\woocommerce-smallscreen.css
+Content Type: text/css
+
+Uri: http://www.srisaiservice.co.in/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=6.2.1
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\plugins\woocommerce\assets\css\woocommerce.css
+Content Type: text/css
+
+Uri: http://www.srisaiservice.co.in/wp-content/plugins/woocommerce/assets/fonts/star.eot
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\plugins\woocommerce\assets\fonts\star.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.srisaiservice.co.in/wp-content/plugins/woocommerce/assets/fonts/star.eot?
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\plugins\woocommerce\assets\fonts\star-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.srisaiservice.co.in/wp-content/plugins/woocommerce/assets/fonts/star.svg
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\plugins\woocommerce\assets\fonts\star.svg
+Content Type: image/svg+xml
+
+Uri: http://www.srisaiservice.co.in/wp-content/plugins/woocommerce/assets/fonts/star.ttf
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\plugins\woocommerce\assets\fonts\star.ttf
+Content Type: font/ttf
+
+Uri: http://www.srisaiservice.co.in/wp-content/plugins/woocommerce/assets/fonts/star.woff
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\plugins\woocommerce\assets\fonts\star.woff
+Content Type: font/woff
+
+Uri: http://www.srisaiservice.co.in/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.srisaiservice.co.in/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot?
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\plugins\woocommerce\assets\fonts\WooCommerce-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.srisaiservice.co.in/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.svg
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.svg
+Content Type: image/svg+xml
+
+Uri: http://www.srisaiservice.co.in/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.ttf
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.ttf
+Content Type: font/ttf
+
+Uri: http://www.srisaiservice.co.in/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.woff
+Content Type: font/woff
+
+Uri: http://www.srisaiservice.co.in/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/amex.svg
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\amex.svg
+Content Type: image/svg+xml
+
+Uri: http://www.srisaiservice.co.in/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/diners.svg
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\diners.svg
+Content Type: image/svg+xml
+
+Uri: http://www.srisaiservice.co.in/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/discover.svg
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\discover.svg
+Content Type: image/svg+xml
+
+Uri: http://www.srisaiservice.co.in/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/jcb.svg
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\jcb.svg
+Content Type: image/svg+xml
+
+Uri: http://www.srisaiservice.co.in/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/laser.svg
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\laser.svg
+Content Type: image/svg+xml
+
+Uri: http://www.srisaiservice.co.in/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/maestro.svg
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\maestro.svg
+Content Type: image/svg+xml
+
+Uri: http://www.srisaiservice.co.in/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/mastercard.svg
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\mastercard.svg
+Content Type: image/svg+xml
+
+Uri: http://www.srisaiservice.co.in/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/visa.svg
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\visa.svg
+Content Type: image/svg+xml
+
+Uri: http://www.srisaiservice.co.in/wp-content/plugins/woocommerce/assets/images/icons/loader.svg
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\plugins\woocommerce\assets\images\icons\loader.svg
+Content Type: image/svg+xml
+
+Uri: http://www.srisaiservice.co.in/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=6.2.1
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min.js
+Content Type: application/javascript
+
+Uri: http://www.srisaiservice.co.in/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=6.2.1
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\plugins\woocommerce\assets\js\frontend\cart-fragments.min.js
+Content Type: application/javascript
+
+Uri: http://www.srisaiservice.co.in/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=6.2.1
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: application/javascript
+
+Uri: http://www.srisaiservice.co.in/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.6.2.1
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: application/javascript
+
+Uri: http://www.srisaiservice.co.in/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.6.2.1
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min.js
+Content Type: application/javascript
+
+Uri: http://www.srisaiservice.co.in/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=6.7.3
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-style.css
+Content Type: text/css
+
+Uri: http://www.srisaiservice.co.in/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=6.7.3
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-vendors-style.css
+Content Type: text/css
+
+Uri: http://www.srisaiservice.co.in/wp-content/themes/i-excel/css/animate.min.css?ver=2014-01-12
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\themes\i-excel\css\animate.min.css
+Content Type: text/css
+
+Uri: http://www.srisaiservice.co.in/wp-content/themes/i-excel/css/extra-style.css?ver=2016-03-11
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\themes\i-excel\css\extra-style.css
+Content Type: text/css
+
+Uri: http://www.srisaiservice.co.in/wp-content/themes/i-excel/css/jquery.sidr.dark.css?ver=2014-01-12
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\themes\i-excel\css\jquery.sidr.dark.css
+Content Type: text/css
+
+Uri: http://www.srisaiservice.co.in/wp-content/themes/i-excel/css/owl.carousel.css?ver=2.2.1
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\themes\i-excel\css\owl.carousel.css
+Content Type: text/css
+
+Uri: http://www.srisaiservice.co.in/wp-content/themes/i-excel/css/owl.theme.css?ver=2.2.1
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\themes\i-excel\css\owl.theme.css
+Content Type: text/css
+
+Uri: http://www.srisaiservice.co.in/wp-content/themes/i-excel/css/owl.transitions.css?ver=2.2.1
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\themes\i-excel\css\owl.transitions.css
+Content Type: text/css
+
+Uri: http://www.srisaiservice.co.in/wp-content/themes/i-excel/css/twocol-blog.css?ver=2015-03-11
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\themes\i-excel\css\twocol-blog.css
+Content Type: text/css
+
+Uri: http://www.srisaiservice.co.in/wp-content/themes/i-excel/fonts/genericons-regular-webfont.eot
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\themes\i-excel\fonts\genericons-regular-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.srisaiservice.co.in/wp-content/themes/i-excel/fonts/genericons-regular-webfont.svg
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\themes\i-excel\fonts\genericons-regular-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://www.srisaiservice.co.in/wp-content/themes/i-excel/fonts/genericons-regular-webfont.ttf
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\themes\i-excel\fonts\genericons-regular-webfont.ttf
+Content Type: font/ttf
+
+Uri: http://www.srisaiservice.co.in/wp-content/themes/i-excel/fonts/genericons.css?ver=2.09
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\themes\i-excel\fonts\genericons.css
+Content Type: text/css
+
+Uri: http://www.srisaiservice.co.in/wp-content/themes/i-excel/images/default-bg.png
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\themes\i-excel\images\default-bg.png
+Content Type: image/png
+
+Uri: http://www.srisaiservice.co.in/wp-content/themes/i-excel/images/dotted-line.png
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\themes\i-excel\images\dotted-line.png
+Content Type: image/png
+
+Uri: http://www.srisaiservice.co.in/wp-content/themes/i-excel/images/homepage-banner-bg3.png
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\themes\i-excel\images\homepage-banner-bg3.png
+Content Type: image/png
+
+Uri: http://www.srisaiservice.co.in/wp-content/themes/i-excel/images/nxs-design-18-overlay.png
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\themes\i-excel\images\nxs-design-18-overlay.png
+Content Type: image/png
+
+Uri: http://www.srisaiservice.co.in/wp-content/themes/i-excel/images/vignette.png
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\themes\i-excel\images\vignette.png
+Content Type: image/png
+
+Uri: http://www.srisaiservice.co.in/wp-content/themes/i-excel/inc/responsive-menu/css/wprmenu.css?ver=1.01
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\themes\i-excel\inc\responsive-menu\css\wprmenu.css
+Content Type: text/css
+
+Uri: http://www.srisaiservice.co.in/wp-content/themes/i-excel/inc/responsive-menu/fonts/wprmenu.eot
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\themes\i-excel\inc\responsive-menu\fonts\wprmenu.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.srisaiservice.co.in/wp-content/themes/i-excel/inc/responsive-menu/fonts/wprmenu.eot?
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\themes\i-excel\inc\responsive-menu\fonts\wprmenu-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.srisaiservice.co.in/wp-content/themes/i-excel/inc/responsive-menu/fonts/wprmenu.svg
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\themes\i-excel\inc\responsive-menu\fonts\wprmenu.svg
+Content Type: image/svg+xml
+
+Uri: http://www.srisaiservice.co.in/wp-content/themes/i-excel/inc/responsive-menu/fonts/wprmenu.ttf
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\themes\i-excel\inc\responsive-menu\fonts\wprmenu.ttf
+Content Type: font/ttf
+
+Uri: http://www.srisaiservice.co.in/wp-content/themes/i-excel/inc/responsive-menu/fonts/wprmenu.woff
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\themes\i-excel\inc\responsive-menu\fonts\wprmenu.woff
+Content Type: font/woff
+
+Uri: http://www.srisaiservice.co.in/wp-content/themes/i-excel/inc/responsive-menu/js/jquery.sidr.js?ver=2017-03-16
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\themes\i-excel\inc\responsive-menu\js\jquery.sidr.js
+Content Type: application/javascript
+
+Uri: http://www.srisaiservice.co.in/wp-content/themes/i-excel/inc/responsive-menu/js/jquery.transit.min.js?ver=2017-03-16
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\themes\i-excel\inc\responsive-menu\js\jquery.transit.min.js
+Content Type: application/javascript
+
+Uri: http://www.srisaiservice.co.in/wp-content/themes/i-excel/inc/responsive-menu/js/wprmenu.js?ver=2017-03-16
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\themes\i-excel\inc\responsive-menu\js\wprmenu.js
+Content Type: application/javascript
+
+Uri: http://www.srisaiservice.co.in/wp-content/themes/i-excel/js/functions.js?ver=2018-06-03
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\themes\i-excel\js\functions.js
+Content Type: application/javascript
+
+Uri: http://www.srisaiservice.co.in/wp-content/themes/i-excel/js/jquery.sidr.min.js?ver=2014-01-13
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\themes\i-excel\js\jquery.sidr.min.js
+Content Type: application/javascript
+
+Uri: http://www.srisaiservice.co.in/wp-content/themes/i-excel/js/owl.carousel.min.js?ver=2.2.1
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\themes\i-excel\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: http://www.srisaiservice.co.in/wp-content/themes/i-excel/js/waypoints.min.js?ver=2014-01-13
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\themes\i-excel\js\waypoints.min.js
+Content Type: application/javascript
+
+Uri: http://www.srisaiservice.co.in/wp-content/themes/i-excel/style.css?ver=2018-06-03
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\themes\i-excel\style.css
+Content Type: text/css
+
+Uri: http://www.srisaiservice.co.in/wp-content/uploads/2022/02/33.jpg
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\uploads\2022\02\33.jpg
+Content Type: image/jpeg
+
+Uri: http://www.srisaiservice.co.in/wp-content/uploads/2022/02/about-Us-300x239.jpg
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\uploads\2022\02\about-Us-300x239.jpg
+Content Type: image/jpeg
+
+Uri: http://www.srisaiservice.co.in/wp-content/uploads/2022/02/about-Us.jpg
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\uploads\2022\02\about-Us.jpg
+Content Type: image/jpeg
+
+Uri: http://www.srisaiservice.co.in/wp-content/uploads/2022/02/about.png
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\uploads\2022\02\about.png
+Content Type: image/png
+
+Uri: http://www.srisaiservice.co.in/wp-content/uploads/2022/02/about_img-100x100.jpg
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\uploads\2022\02\about_img-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://www.srisaiservice.co.in/wp-content/uploads/2022/02/about_img-150x150.jpg
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\uploads\2022\02\about_img-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.srisaiservice.co.in/wp-content/uploads/2022/02/about_img-300x300.jpg
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\uploads\2022\02\about_img-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://www.srisaiservice.co.in/wp-content/uploads/2022/02/about_img.jpg
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\uploads\2022\02\about_img.jpg
+Content Type: image/jpeg
+
+Uri: http://www.srisaiservice.co.in/wp-content/uploads/2022/02/ac1.jpg
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\uploads\2022\02\ac1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.srisaiservice.co.in/wp-content/uploads/2022/02/bg3.jpg
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\uploads\2022\02\bg3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.srisaiservice.co.in/wp-content/uploads/2022/02/cropped-c2-180x180.png
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\uploads\2022\02\cropped-c2-180x180.png
+Content Type: image/png
+
+Uri: http://www.srisaiservice.co.in/wp-content/uploads/2022/02/cropped-c2-192x192.png
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\uploads\2022\02\cropped-c2-192x192.png
+Content Type: image/png
+
+Uri: http://www.srisaiservice.co.in/wp-content/uploads/2022/02/cropped-c2-32x32.png
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\uploads\2022\02\cropped-c2-32x32.png
+Content Type: image/png
+
+Uri: http://www.srisaiservice.co.in/wp-content/uploads/2022/02/dishwasher6666.jpg
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\uploads\2022\02\dishwasher6666.jpg
+Content Type: image/jpeg
+
+Uri: http://www.srisaiservice.co.in/wp-content/uploads/2022/02/fridge1.jpg
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\uploads\2022\02\fridge1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.srisaiservice.co.in/wp-content/uploads/2022/02/glry3.jpg
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\uploads\2022\02\glry3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.srisaiservice.co.in/wp-content/uploads/2022/02/LED.jpg
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\uploads\2022\02\LED.jpg
+Content Type: image/jpeg
+
+Uri: http://www.srisaiservice.co.in/wp-content/uploads/2022/02/microwave.jpg
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\uploads\2022\02\microwave.jpg
+Content Type: image/jpeg
+
+Uri: http://www.srisaiservice.co.in/wp-content/uploads/2022/02/slider01-1.jpg
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\uploads\2022\02\slider01-1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.srisaiservice.co.in/wp-content/uploads/2022/02/slider01-1024x341.jpg
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\uploads\2022\02\slider01-1024x341.jpg
+Content Type: image/jpeg
+
+Uri: http://www.srisaiservice.co.in/wp-content/uploads/2022/02/slider01-2-1024x341.jpg
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\uploads\2022\02\slider01-2-1024x341.jpg
+Content Type: image/jpeg
+
+Uri: http://www.srisaiservice.co.in/wp-content/uploads/2022/02/slider01-2-300x100.jpg
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\uploads\2022\02\slider01-2-300x100.jpg
+Content Type: image/jpeg
+
+Uri: http://www.srisaiservice.co.in/wp-content/uploads/2022/02/slider01-2-600x200.jpg
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\uploads\2022\02\slider01-2-600x200.jpg
+Content Type: image/jpeg
+
+Uri: http://www.srisaiservice.co.in/wp-content/uploads/2022/02/slider01-2-768x256.jpg
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\uploads\2022\02\slider01-2-768x256.jpg
+Content Type: image/jpeg
+
+Uri: http://www.srisaiservice.co.in/wp-content/uploads/2022/02/slider01-2.jpg
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\uploads\2022\02\slider01-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.srisaiservice.co.in/wp-content/uploads/2022/02/slider01-300x100.jpg
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\uploads\2022\02\slider01-300x100.jpg
+Content Type: image/jpeg
+
+Uri: http://www.srisaiservice.co.in/wp-content/uploads/2022/02/slider01-600x200.jpg
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\uploads\2022\02\slider01-600x200.jpg
+Content Type: image/jpeg
+
+Uri: http://www.srisaiservice.co.in/wp-content/uploads/2022/02/slider01-768x256.jpg
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\uploads\2022\02\slider01-768x256.jpg
+Content Type: image/jpeg
+
+Uri: http://www.srisaiservice.co.in/wp-content/uploads/2022/02/slider01.jpg
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\uploads\2022\02\slider01.jpg
+Content Type: image/jpeg
+
+Uri: http://www.srisaiservice.co.in/wp-content/uploads/2022/02/wa.png
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\uploads\2022\02\wa.png
+Content Type: image/png
+
+Uri: http://www.srisaiservice.co.in/wp-content/uploads/2022/03/11111111.png
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-content\uploads\2022\03\11111111.png
+Content Type: image/png
+
+Uri: http://www.srisaiservice.co.in/wp-includes/css/dist/block-library/style.min.css?ver=5.9.2
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: http://www.srisaiservice.co.in/wp-includes/js/imagesloaded.min.js?ver=4.1.4
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-includes\js\imagesloaded.min.js
+Content Type: application/javascript
+
+Uri: http://www.srisaiservice.co.in/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: http://www.srisaiservice.co.in/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-includes\js\jquery\jquery.masonry.min.js
+Content Type: application/javascript
+
+Uri: http://www.srisaiservice.co.in/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: http://www.srisaiservice.co.in/wp-includes/js/masonry.min.js?ver=4.2.2
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-includes\js\masonry.min.js
+Content Type: application/javascript
+
+Uri: http://www.srisaiservice.co.in/wp-includes/wlwmanifest.xml
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: http://www.srisaiservice.co.in/wp-json/
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-json\index.htm
+Content Type: application/json
+
+Uri: http://www.srisaiservice.co.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.srisaiservice.co.in%2F
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: http://www.srisaiservice.co.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.srisaiservice.co.in%2F&format=xml
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: http://www.srisaiservice.co.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.srisaiservice.co.in%2Fcontact%2F
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: http://www.srisaiservice.co.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.srisaiservice.co.in%2Fcontact%2F&format=xml
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: http://www.srisaiservice.co.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.srisaiservice.co.in%2Fservices%2F
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: http://www.srisaiservice.co.in/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.srisaiservice.co.in%2Fservices%2F&format=xml
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: http://www.srisaiservice.co.in/wp-json/wp/v2/pages/20
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-json\wp\v2\pages\20
+Content Type: application/json
+
+Uri: http://www.srisaiservice.co.in/wp-json/wp/v2/pages/23
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-json\wp\v2\pages\23
+Content Type: application/json
+
+Uri: http://www.srisaiservice.co.in/wp-json/wp/v2/pages/24
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\wp-json\wp\v2\pages\24
+Content Type: application/json
+
+Uri: http://www.srisaiservice.co.in/xmlrpc.php?rsd
+File Name: D:\shop\mama\website4\www.srisaiservice.co.in\xmlrpc.php
+Content Type: text/xml
+
